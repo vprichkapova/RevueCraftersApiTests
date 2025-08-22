@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevueCraftersApiTests", "NUnit Test Project (\RevueCraftersApiTests.csproj", "{5D5D81D9-4C16-4728-99A8-52C03A5439C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D5D81D9-4C16-4728-99A8-52C03A5439C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5D81D9-4C16-4728-99A8-52C03A5439C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5D81D9-4C16-4728-99A8-52C03A5439C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5D81D9-4C16-4728-99A8-52C03A5439C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4898410C-B63F-46F7-AE15-4A3B2436AAA7}
+	EndGlobalSection
+EndGlobal
